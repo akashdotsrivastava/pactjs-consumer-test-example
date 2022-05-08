@@ -1,0 +1,3 @@
+node_modules
+log/pact.log
+contract-tests/pacts/*.json

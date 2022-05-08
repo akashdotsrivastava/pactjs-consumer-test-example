@@ -1,0 +1,16 @@
+{
+  "name": "pactjs-consumer-test-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@pact-foundation/pact": "^9.17.3",
+    "apollo-boost": "^0.4.9",
+    "jest": "^28.1.0",
+    "jest-pact": "^0.9.3",
+    "node-fetch": "2"
+  }
+}
